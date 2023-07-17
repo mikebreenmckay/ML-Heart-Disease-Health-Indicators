@@ -8,11 +8,13 @@
 * Create various machine learning models and check their performance.
 * Create some nice data visualizations along the way.
 * Explain my process in detail.
+* UPDATE (7/17/2023): Planning to add a deep learning model using PyTorch
 
 ##### 2. The Data:
 * Data was posted to Kaggle by Alex Teboul and listed as '253,680 survey responses from cleaned BRFSS 2015 - binary classification'
 * While this data is already cleaned, I am interested in pulling raw data from the CDC for more recent years for the purpose of cleaning the raw data and having additional data to test/train the model on.
 * As a voluntary survey we will need to be particularly aware of biases in the data.  This has been cleaned of null values so it will be important to check the distributions of the values.
+
 
 ###### 2a. Description of indicator/features from the survey:
 * Response Variable / Dependent Variable:
