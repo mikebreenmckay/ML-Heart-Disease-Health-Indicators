@@ -3,12 +3,15 @@
 #### Author: Michael Breen-McKay
 #### Date: 03/15/2023
 ---
-##### 1. Project Goals: 
+##### 1. Project Goals/Results: 
 * Perform EDA on the data sourced from Kaggle.
 * Create various machine learning models and check their performance.
 * Create some nice data visualizations along the way.
 * Explain my process in detail.
-* UPDATE (7/17/2023): Planning to add a deep learning model using PyTorch
+* UPDATE (7/19/2023): Added a Multilayer Perceptron with the following results:
+    * Train Acc 90.69%
+    * Val Acc 90.64%
+    * Test Acc 90.74%
 
 ##### 2. The Data:
 * Data was posted to Kaggle by Alex Teboul and listed as '253,680 survey responses from cleaned BRFSS 2015 - binary classification'
